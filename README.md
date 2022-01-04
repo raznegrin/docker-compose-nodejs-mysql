@@ -5,6 +5,8 @@ We are going to use 'MySQL' like our specialized database and 'Node.js' as our p
 
 
 #ScreenShots
+NodeJS v14.17
+MySQL 5.7
 
 <p align="center">
     <img src="Screenshots/docker_nodejs.png" alt="docker_compose" width="50%"/>
