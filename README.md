@@ -14,6 +14,9 @@ We are going to use 'MySQL' like our specialized database and 'Node.js' as our p
     <img src="Screenshots/mysql.jpg" alt="docker_compose" width="50%"/>
 </p>
 
+### To Build both of images 
+'docker-compose build'
+
 ### RUN THE PROJECT
 `docker-compose up`
 
